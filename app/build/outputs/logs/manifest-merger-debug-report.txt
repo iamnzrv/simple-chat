@@ -1,0 +1,265 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/iamnzrv/Projects/AndroidStudioProjects/Smack/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/iamnzrv/Projects/AndroidStudioProjects/Smack/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/iamnzrv/Projects/AndroidStudioProjects/Smack/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/iamnzrv/Projects/AndroidStudioProjects/Smack/app/src/main/AndroidManifest.xml:2:1-28:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/5313cfb756e93375741514fa0adb8c9d/navigation-ui-ktx-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/9cc99e550e7bb782690727cec90e8c84/navigation-ui-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/2b3bfb2f53c13f4b13fedff1b26c7026/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/a0afb335eed1f7f596f25b154880532f/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/7b1bfcd382ecd2b4f28c6ba05c8dd927/jetified-core-ktx-1.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/79ad0c67653bf07810fab78a2a00fdd8/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/64d58e40f4a78041931f37d5903867e0/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/3e573a4a17e66eeb356186bffa4c21ec/navigation-fragment-ktx-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/f123d5aed404df7aff7c79f928ca1405/navigation-fragment-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/b9d6727cebef1f7ab85a3f6b34ab8dd8/lifecycle-extensions-2.1.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.volley:volley:1.1.1] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/5257153ef48036c73a6224012849376e/jetified-volley-1.1.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/13d35c6064d9403c8cbd3811dbb2f0f4/navigation-runtime-ktx-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/452d200b06dca7f19eab2baf8533836a/jetified-fragment-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/0eee966d208cfac381452f4e1eddf818/jetified-activity-ktx-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/75b79bc171702bbf8320436d3c04badb/jetified-lifecycle-viewmodel-ktx-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/568610456ede69d7e812d634c988f38c/navigation-common-ktx-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/43614f2c5099fedd0b63ee6a7321b3a8/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/077b4ca84512d88aa773cc5a902ba2f8/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/616cc313147d6a9a1cfe0fa6a66f3598/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/602853ec6d0b6c278f88d6ec203c5833/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/d4dfeaad11d8d89863d2bc90478a157a/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/36bca12a21fd0765c77ef75576ffa8d4/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/c49e2a58f539aecfaa70ef89233a1bda/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.1] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/f8aa26df4532b4dde2f5f740fe69d535/transition-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/95a6375189be4d53d7516279296592e8/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/b48812fed3dbfad37f2ef1ed56729ffe/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/f8dace0340d5d1ab79f46be656e21270/navigation-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/eaa2f6b9f8349b59b77c27ab09642d9a/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/7680f8169fd708260953520c3c4fee68/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/aa6b73b51d70abd2c34b5c22208f5e82/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/79420af96c6bfe408c4adf1083369ec4/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/8008bd8ce179bb00620efa1bcafac1a9/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/64c0f82141d30127cd6745cc9c3a180f/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/5b63c21986cce29bce4b06731b776d1f/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/bf1e1649a2f1408f51f96a60f59cfaa2/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/69e7a0dc706af906623384fb727bc6e2/navigation-common-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/cb350181d9b5f2a56cadfbaa304fc5e4/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/c70d6fce83252774221fee81a78a554f/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/c8cafb49d64e355a9ce2780eb3c6e9dc/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/d559729907af9622e67db070c2d6529e/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/1c3925df70037ff32aba1941d82b4283/jetified-lifecycle-service-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/be41d118dacb2ddc13065f9c811545e6/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/97070ea7c6742ab2cf72c39c6f5ed193/lifecycle-livedata-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/afb51808750fc718f3ab5ba551196319/lifecycle-livedata-core-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/6725e4b2e92472e667d8b9157fbf9148/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/babcccc9317f8cc6a69c582dda90f598/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/c4f7c270103b1dccd2e65a323cce41d2/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/d7d8728d9723247bdab9760d9c25484d/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/ff6ff035e6e6ee0110c62498dda5c997/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/5340bde6d46115dc4c5b95a7b223fce9/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/3d12f4d04e81b5caf7a7399a0288b946/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/90dfe4d9cc0147c9198625b62348b760/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/iamnzrv/Projects/AndroidStudioProjects/Smack/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/iamnzrv/Projects/AndroidStudioProjects/Smack/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/iamnzrv/Projects/AndroidStudioProjects/Smack/app/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from /home/iamnzrv/Projects/AndroidStudioProjects/Smack/app/src/main/AndroidManifest.xml:3:5-31
+		INJECTED from /home/iamnzrv/Projects/AndroidStudioProjects/Smack/app/src/main/AndroidManifest.xml
+		INJECTED from /home/iamnzrv/Projects/AndroidStudioProjects/Smack/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/iamnzrv/Projects/AndroidStudioProjects/Smack/app/src/main/AndroidManifest.xml
+		ADDED from /home/iamnzrv/Projects/AndroidStudioProjects/Smack/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /home/iamnzrv/Projects/AndroidStudioProjects/Smack/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/iamnzrv/Projects/AndroidStudioProjects/Smack/app/src/main/AndroidManifest.xml
+		ADDED from /home/iamnzrv/Projects/AndroidStudioProjects/Smack/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /home/iamnzrv/Projects/AndroidStudioProjects/Smack/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/iamnzrv/Projects/AndroidStudioProjects/Smack/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/iamnzrv/Projects/AndroidStudioProjects/Smack/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/iamnzrv/Projects/AndroidStudioProjects/Smack/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/iamnzrv/Projects/AndroidStudioProjects/Smack/app/src/main/AndroidManifest.xml:7:5-26:19
+MERGED from [com.google.android.material:material:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/2b3bfb2f53c13f4b13fedff1b26c7026/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/2b3bfb2f53c13f4b13fedff1b26c7026/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/64d58e40f4a78041931f37d5903867e0/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/64d58e40f4a78041931f37d5903867e0/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/b9d6727cebef1f7ab85a3f6b34ab8dd8/lifecycle-extensions-2.1.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/b9d6727cebef1f7ab85a3f6b34ab8dd8/lifecycle-extensions-2.1.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.volley:volley:1.1.1] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/5257153ef48036c73a6224012849376e/jetified-volley-1.1.1/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/5257153ef48036c73a6224012849376e/jetified-volley-1.1.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/cb350181d9b5f2a56cadfbaa304fc5e4/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/cb350181d9b5f2a56cadfbaa304fc5e4/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/d559729907af9622e67db070c2d6529e/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/d559729907af9622e67db070c2d6529e/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/d7d8728d9723247bdab9760d9c25484d/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/d7d8728d9723247bdab9760d9c25484d/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/cb350181d9b5f2a56cadfbaa304fc5e4/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/iamnzrv/Projects/AndroidStudioProjects/Smack/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /home/iamnzrv/Projects/AndroidStudioProjects/Smack/app/src/main/AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from /home/iamnzrv/Projects/AndroidStudioProjects/Smack/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /home/iamnzrv/Projects/AndroidStudioProjects/Smack/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /home/iamnzrv/Projects/AndroidStudioProjects/Smack/app/src/main/AndroidManifest.xml:12:9-40
+	android:name
+		ADDED from /home/iamnzrv/Projects/AndroidStudioProjects/Smack/app/src/main/AndroidManifest.xml:13:9-39
+activity#com.keksec.smack.controller.CreateUserActivity
+ADDED from /home/iamnzrv/Projects/AndroidStudioProjects/Smack/app/src/main/AndroidManifest.xml:14:9-67
+	android:name
+		ADDED from /home/iamnzrv/Projects/AndroidStudioProjects/Smack/app/src/main/AndroidManifest.xml:14:19-64
+activity#com.keksec.smack.controller.LoginActivity
+ADDED from /home/iamnzrv/Projects/AndroidStudioProjects/Smack/app/src/main/AndroidManifest.xml:15:9-62
+	android:name
+		ADDED from /home/iamnzrv/Projects/AndroidStudioProjects/Smack/app/src/main/AndroidManifest.xml:15:19-59
+activity#com.keksec.smack.controller.MainActivity
+ADDED from /home/iamnzrv/Projects/AndroidStudioProjects/Smack/app/src/main/AndroidManifest.xml:16:9-25:20
+	android:label
+		ADDED from /home/iamnzrv/Projects/AndroidStudioProjects/Smack/app/src/main/AndroidManifest.xml:18:13-45
+	android:windowSoftInputMode
+		ADDED from /home/iamnzrv/Projects/AndroidStudioProjects/Smack/app/src/main/AndroidManifest.xml:20:13-60
+	android:theme
+		ADDED from /home/iamnzrv/Projects/AndroidStudioProjects/Smack/app/src/main/AndroidManifest.xml:19:13-56
+	android:name
+		ADDED from /home/iamnzrv/Projects/AndroidStudioProjects/Smack/app/src/main/AndroidManifest.xml:17:13-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/iamnzrv/Projects/AndroidStudioProjects/Smack/app/src/main/AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from /home/iamnzrv/Projects/AndroidStudioProjects/Smack/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /home/iamnzrv/Projects/AndroidStudioProjects/Smack/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/iamnzrv/Projects/AndroidStudioProjects/Smack/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /home/iamnzrv/Projects/AndroidStudioProjects/Smack/app/src/main/AndroidManifest.xml:23:27-74
+uses-sdk
+INJECTED from /home/iamnzrv/Projects/AndroidStudioProjects/Smack/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/iamnzrv/Projects/AndroidStudioProjects/Smack/app/src/main/AndroidManifest.xml
+INJECTED from /home/iamnzrv/Projects/AndroidStudioProjects/Smack/app/src/main/AndroidManifest.xml
+MERGED from [androidx.navigation:navigation-ui-ktx:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/5313cfb756e93375741514fa0adb8c9d/navigation-ui-ktx-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/5313cfb756e93375741514fa0adb8c9d/navigation-ui-ktx-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/9cc99e550e7bb782690727cec90e8c84/navigation-ui-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/9cc99e550e7bb782690727cec90e8c84/navigation-ui-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/2b3bfb2f53c13f4b13fedff1b26c7026/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/2b3bfb2f53c13f4b13fedff1b26c7026/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/a0afb335eed1f7f596f25b154880532f/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/a0afb335eed1f7f596f25b154880532f/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/7b1bfcd382ecd2b4f28c6ba05c8dd927/jetified-core-ktx-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/7b1bfcd382ecd2b4f28c6ba05c8dd927/jetified-core-ktx-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/79ad0c67653bf07810fab78a2a00fdd8/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/79ad0c67653bf07810fab78a2a00fdd8/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/64d58e40f4a78041931f37d5903867e0/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/64d58e40f4a78041931f37d5903867e0/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/3e573a4a17e66eeb356186bffa4c21ec/navigation-fragment-ktx-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/3e573a4a17e66eeb356186bffa4c21ec/navigation-fragment-ktx-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/f123d5aed404df7aff7c79f928ca1405/navigation-fragment-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/f123d5aed404df7aff7c79f928ca1405/navigation-fragment-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/b9d6727cebef1f7ab85a3f6b34ab8dd8/lifecycle-extensions-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/b9d6727cebef1f7ab85a3f6b34ab8dd8/lifecycle-extensions-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.1.1] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/5257153ef48036c73a6224012849376e/jetified-volley-1.1.1/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/5257153ef48036c73a6224012849376e/jetified-volley-1.1.1/AndroidManifest.xml:7:5-43
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/13d35c6064d9403c8cbd3811dbb2f0f4/navigation-runtime-ktx-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/13d35c6064d9403c8cbd3811dbb2f0f4/navigation-runtime-ktx-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/452d200b06dca7f19eab2baf8533836a/jetified-fragment-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/452d200b06dca7f19eab2baf8533836a/jetified-fragment-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/0eee966d208cfac381452f4e1eddf818/jetified-activity-ktx-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/0eee966d208cfac381452f4e1eddf818/jetified-activity-ktx-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/75b79bc171702bbf8320436d3c04badb/jetified-lifecycle-viewmodel-ktx-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/75b79bc171702bbf8320436d3c04badb/jetified-lifecycle-viewmodel-ktx-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/568610456ede69d7e812d634c988f38c/navigation-common-ktx-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/568610456ede69d7e812d634c988f38c/navigation-common-ktx-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/43614f2c5099fedd0b63ee6a7321b3a8/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/43614f2c5099fedd0b63ee6a7321b3a8/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/077b4ca84512d88aa773cc5a902ba2f8/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/077b4ca84512d88aa773cc5a902ba2f8/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/616cc313147d6a9a1cfe0fa6a66f3598/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/616cc313147d6a9a1cfe0fa6a66f3598/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/602853ec6d0b6c278f88d6ec203c5833/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/602853ec6d0b6c278f88d6ec203c5833/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/d4dfeaad11d8d89863d2bc90478a157a/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/d4dfeaad11d8d89863d2bc90478a157a/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/36bca12a21fd0765c77ef75576ffa8d4/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/36bca12a21fd0765c77ef75576ffa8d4/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/c49e2a58f539aecfaa70ef89233a1bda/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/c49e2a58f539aecfaa70ef89233a1bda/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/f8aa26df4532b4dde2f5f740fe69d535/transition-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/f8aa26df4532b4dde2f5f740fe69d535/transition-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/95a6375189be4d53d7516279296592e8/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/95a6375189be4d53d7516279296592e8/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/b48812fed3dbfad37f2ef1ed56729ffe/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/b48812fed3dbfad37f2ef1ed56729ffe/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/f8dace0340d5d1ab79f46be656e21270/navigation-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/f8dace0340d5d1ab79f46be656e21270/navigation-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/eaa2f6b9f8349b59b77c27ab09642d9a/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/eaa2f6b9f8349b59b77c27ab09642d9a/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/7680f8169fd708260953520c3c4fee68/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/7680f8169fd708260953520c3c4fee68/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/aa6b73b51d70abd2c34b5c22208f5e82/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/aa6b73b51d70abd2c34b5c22208f5e82/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/79420af96c6bfe408c4adf1083369ec4/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/79420af96c6bfe408c4adf1083369ec4/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/8008bd8ce179bb00620efa1bcafac1a9/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/8008bd8ce179bb00620efa1bcafac1a9/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/64c0f82141d30127cd6745cc9c3a180f/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/64c0f82141d30127cd6745cc9c3a180f/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/5b63c21986cce29bce4b06731b776d1f/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/5b63c21986cce29bce4b06731b776d1f/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/bf1e1649a2f1408f51f96a60f59cfaa2/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/bf1e1649a2f1408f51f96a60f59cfaa2/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/69e7a0dc706af906623384fb727bc6e2/navigation-common-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/69e7a0dc706af906623384fb727bc6e2/navigation-common-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/cb350181d9b5f2a56cadfbaa304fc5e4/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/cb350181d9b5f2a56cadfbaa304fc5e4/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/c70d6fce83252774221fee81a78a554f/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/c70d6fce83252774221fee81a78a554f/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/c8cafb49d64e355a9ce2780eb3c6e9dc/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/c8cafb49d64e355a9ce2780eb3c6e9dc/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/d559729907af9622e67db070c2d6529e/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/d559729907af9622e67db070c2d6529e/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/1c3925df70037ff32aba1941d82b4283/jetified-lifecycle-service-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/1c3925df70037ff32aba1941d82b4283/jetified-lifecycle-service-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/be41d118dacb2ddc13065f9c811545e6/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/be41d118dacb2ddc13065f9c811545e6/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/97070ea7c6742ab2cf72c39c6f5ed193/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/97070ea7c6742ab2cf72c39c6f5ed193/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/afb51808750fc718f3ab5ba551196319/lifecycle-livedata-core-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/afb51808750fc718f3ab5ba551196319/lifecycle-livedata-core-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/6725e4b2e92472e667d8b9157fbf9148/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/6725e4b2e92472e667d8b9157fbf9148/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/babcccc9317f8cc6a69c582dda90f598/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/babcccc9317f8cc6a69c582dda90f598/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/c4f7c270103b1dccd2e65a323cce41d2/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/c4f7c270103b1dccd2e65a323cce41d2/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/d7d8728d9723247bdab9760d9c25484d/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/d7d8728d9723247bdab9760d9c25484d/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/ff6ff035e6e6ee0110c62498dda5c997/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/ff6ff035e6e6ee0110c62498dda5c997/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/5340bde6d46115dc4c5b95a7b223fce9/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/5340bde6d46115dc4c5b95a7b223fce9/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/3d12f4d04e81b5caf7a7399a0288b946/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/3d12f4d04e81b5caf7a7399a0288b946/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/90dfe4d9cc0147c9198625b62348b760/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/90dfe4d9cc0147c9198625b62348b760/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/iamnzrv/Projects/AndroidStudioProjects/Smack/app/src/main/AndroidManifest.xml
+INJECTED from /home/iamnzrv/Projects/AndroidStudioProjects/Smack/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/iamnzrv/Projects/AndroidStudioProjects/Smack/app/src/main/AndroidManifest.xml
+		ADDED from /home/iamnzrv/Projects/AndroidStudioProjects/Smack/app/src/main/AndroidManifest.xml
+		INJECTED from /home/iamnzrv/Projects/AndroidStudioProjects/Smack/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/iamnzrv/Projects/AndroidStudioProjects/Smack/app/src/main/AndroidManifest.xml
+		ADDED from /home/iamnzrv/Projects/AndroidStudioProjects/Smack/app/src/main/AndroidManifest.xml
+		INJECTED from /home/iamnzrv/Projects/AndroidStudioProjects/Smack/app/src/main/AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/d559729907af9622e67db070c2d6529e/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/d559729907af9622e67db070c2d6529e/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/d559729907af9622e67db070c2d6529e/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/d559729907af9622e67db070c2d6529e/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/iamnzrv/.gradle/caches/transforms-2/files-2.1/d559729907af9622e67db070c2d6529e/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:24:13-79

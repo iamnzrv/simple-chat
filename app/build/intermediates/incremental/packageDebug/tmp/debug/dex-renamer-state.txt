@@ -1,0 +1,4 @@
+#Tue Dec 31 00:04:52 MSK 2019
+base.0=/home/iamnzrv/Projects/AndroidStudioProjects/Smack/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
